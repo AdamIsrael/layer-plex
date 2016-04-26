@@ -1,0 +1,11 @@
+name: plex
+summary: Plex Media Server
+maintainer: Adam Israel <adam@adamisrael.com>
+description: |
+  Plex Media Player allows you to watch your personal media,
+  no matter where you are.
+requires:
+  downloads:
+    interface: nfs
+tags:
+  - streaming
